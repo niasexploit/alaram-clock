@@ -2,5 +2,8 @@
 # alaram-clock
 A simple Python script to set an alarm for a specific time. When the alarm sounds, a random youtube video will be opened.
 # Module 
-1. pip install playsound
-2. alarm mp3 sound
+Install Playsound
+```
+$ pip install playsound
+```
+alarm mp3 sound
